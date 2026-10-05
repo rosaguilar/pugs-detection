@@ -184,3 +184,6 @@ cython_debug/
 
 # Ignore Cache files
 cache/
+
+#ignore ckpt files
+*.ckpt

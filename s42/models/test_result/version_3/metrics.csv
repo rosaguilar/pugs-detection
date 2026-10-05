@@ -1,0 +1,2 @@
+epoch,step,test_BinaryAccuracy,test_BinaryJaccardIndex,test_loss
+0,0,0.958550751209259,0.7550785541534424,0.1319226175546646
