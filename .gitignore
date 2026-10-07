@@ -187,3 +187,8 @@ cache/
 
 #ignore ckpt files
 *.ckpt
+
+# ignore results
+*.tif
+*.tiff
+*.csv
